@@ -1,0 +1,23 @@
+Category,Type of Document,Eligibility,Application Process,Documents Required,Fees,Validity,Official Website
+Identity Cards,Aadhaar Card,All Indian residents,Apply online or visit Aadhaar Enrollment Center,"Proof of Identity, Proof of Address, Biometric data",Free,Lifetime,https://uidai.gov.in/
+Identity Cards,PAN Card,"Indian residents, entities operating in India",Apply online or through authorized service providers,"Proof of Identity, Proof of Address, Photograph","₹93 (Indian residents), ₹864 (Foreign citizens)",Lifetime,https://www.incometaxindia.gov.in/
+Identity Cards,Passport,Indian citizens,Apply online or through Passport Seva Kendra,"Proof of Identity, Proof of Address, Date of Birth proof, Photograph",Varies based on type (Normal/Tatkal) and duration,"10 years (Adults), 5 years (Minors)",https://portal2.passportindia.gov.in/
+Identity Cards,Voter ID Card,Indian citizens aged 18 and above,Apply online or through Electoral Registration Officer,"Proof of Age, Proof of Address, Photograph",Free,Lifetime,https://eci.gov.in/
+Identity Cards,OCI Card,Foreign citizens of Indian origin,Apply online or through Indian Missions/Posts abroad,"Proof of Indian Origin, Proof of Current Citizenship, Photograph","₹15,000 (for adults), ₹7,500 (for minors)",Lifetime,https://passport.gov.in/oci/
+Identity Cards,PIO Card,Foreign citizens of Indian origin,No longer issued; can be converted to OCI Card,Passport,Free,Free,https://www.mea.gov.in/Portal/CountryQuickLink/703_PIO-OCI.pdf
+Identity Cards,Driving License,Indian citizens aged 18 and above,Apply online or through Regional Transport Office,"Proof of Age, Proof of Address, Passport-sized photograph, Driving test",Varies by state,"20 years for private vehicles, 5 years for commercial vehicles",Varies by state
+Certificates,Ration Card,Indian residents,"Apply through Food, Civil Supplies, and Consumer Affairs Department","Proof of Identity, Proof of Residence, Family details",Varies by state,Valid until updated,Varies by state
+Certificates,Birth Certificate,Individuals born in India,Apply through Municipal Corporation or Municipality,"Hospital record, Parent's identity proof",Varies by state,Lifetime,Varies by state
+Certificates,Transfer Certificate,Students transferring between schools/colleges,Apply through the current educational institution,"School/College identity proof, Transfer request",Varies by institution,One-time use,Varies by institution
+Certificates,Scheduled Caste/Scheduled Tribe/OBC Certificate,Individuals belonging to respective categories,Apply through respective state government authorities,"Proof of Caste, Residence proof, Passport-sized photograph",Varies by state,Varies by state,Varies by state
+Others,Property Documents,Property owners,Acquire through property registration process,"Sale deed, Property identification documents",Varies by property value,Lifetime,Varies by region
+Others,Railway Identity Cards,Railway employees,Provided by Railway Department,"Proof of Employment, Photograph",Free,Valid until employment,Varies by region
+Others,Student Photo ID Card,Students enrolled in recognized educational institutions,Issued by educational institution,"Proof of Enrollment, Photograph",Varies by institution,Valid for academic year,Varies by institution
+Others,Gas Connection Bill,Gas consumers,Provided by Gas Distribution Company,"Proof of Gas Connection, Address proof",Varies by usage,Billing cycle,Varies by region
+Others,Bank/Kisan/Post Office Passbooks,Account holders,Issued by respective financial institution,"Proof of Identity, Account opening form",Varies by bank,Lifetime,Varies by bank
+Others,Photo Bank ATM Card,Bank account holders,Issued by Bank,"Proof of Identity, Account details",Varies by bank,Valid until card expiry,Varies by bank
+Others,Pensioner Photo Card,Pensioners,Issued by Pension Disbursing Authority,"Proof of Pension, Photograph",Free,Lifetime,Varies by pension scheme
+Others,Disability ID Card,Individuals with disabilities,Apply through respective State/UT Disability Department,"Medical certificate, Proof of Identity, Proof of Address",Varies by state,Lifetime,Varies by state
+Others,Marriage Certificate,Married individuals,Apply through Marriage Registrar,"Marriage application form, Identity proof, Address proof, Photographs",Varies by state,Lifetime,Varies by state
+Others,Legal Name Change Certificate,Individuals changing their legal name,Apply through Gazette notification or court order,"Application form, Proof of Identity, Name change affidavit",Varies by process,Lifetime,Varies by process
+Others,Land Revenue Certificate,Landowners,Apply through Revenue Department,"Proof of Land Ownership, Identity proof, Revenue records",Varies by state,Valid until updated,Varies by state
